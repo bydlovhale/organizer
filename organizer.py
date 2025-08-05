@@ -1,7 +1,7 @@
 import os
 import shutil
 
-# Change: User prompted for folder aabb
+# Change: User prompted for folder aabbvc
 FOLDER = input("Enter folder path to organize: ")
 
 # Change: Extensions expanded
